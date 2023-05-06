@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2>Maybe this was not a good idea</h2>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printmag.com%2Fdesign-news%2Fsomeone-just-bought-a-gif-for-half-a-million-dollars%2F&psig=AOvVaw0MR72WIe2tW0a8AosDUhZ6&ust=1683440996930000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiMu6Pu3v4CFQAAAAAdAAAAABAE">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printmag.com%2Fdesign-news%2Fsomeone-just-bought-a-gif-for-half-a-million-dollars%2F&psig=AOvVaw0MR72WIe2tW0a8AosDUhZ6&ust=1683440996930000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiMu6Pu3v4CFQAAAAAdAAAAABAE" alt="no image">
   
 <!--
 **AbhiRwDev/AbhiRwDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
