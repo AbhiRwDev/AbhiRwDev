@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2>Maybe this was not a good idea</h2>
 
-<table style="background-color:red; padding:"40px">
+<table style="background-color:red; padding:"40px";>
  <tr>
   <td><img width="200" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="no image"></td>
   <td><img width="200" src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" alt="Happy cat"></td>
