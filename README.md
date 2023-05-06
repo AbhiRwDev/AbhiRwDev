@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h2>Maybe this was not a good idea</h2>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printmag.com%2Fdesign-news%2Fsomeone-just-bought-a-gif-for-half-a-million-dollars%2F&psig=AOvVaw0MR72WIe2tW0a8AosDUhZ6&ust=1683440996930000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiMu6Pu3v4CFQAAAAAdAAAAABAE" alt="no image">
-  
+<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="no image">
+  ![nyan cat](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)
 <!--
 **AbhiRwDev/AbhiRwDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
