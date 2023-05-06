@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h2>Maybe this was not a good idea</h2>
 
-  <div style="color:green;">
-    <h1>testing colors</h1>
+  <div style="">
+    <h1 style="color:#000000;">testing colors</h1>
   </div>
   
 <!--
